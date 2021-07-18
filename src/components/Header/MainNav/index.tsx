@@ -29,6 +29,7 @@ const mainNavItems: MainNavItem[] = [
 const MainNav: React.FC = () => {
   const [open, setOpen] = useState(false);
 
+  
   return (
     <>
       <Styled.MainNav open={open}>
