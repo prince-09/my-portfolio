@@ -10,6 +10,7 @@ const BlogPage: React.FC = () => {
       <SEO title="Blog" />
       <Posts />
     </Layout>
+    
   );
 };
 
