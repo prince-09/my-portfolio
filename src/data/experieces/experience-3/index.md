@@ -6,4 +6,7 @@ startDate: 'May 2021'
 endDate: 'Present'
 ---
 
-Worked on **JAM stack** for an end to feature delivery using ReactJS and Python. Use Jest and enzyme for writing tests
+* Integrated more than 5 Payment Gateways on the Website.
+* Build Scalable APIs using SQS and Lambda.
+* Used NextJS and TailwindCSS for Frontend.
+* Tools like Salesforce, Retool, Rockset, Seed, Epsagon, and Haptik.
